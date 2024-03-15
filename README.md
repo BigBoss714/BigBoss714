@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **latest trends and technologies in web development**
 
-- 📝 I regularly write articles on [StackOverFlow, Medium, Dev Community, Daily Dev, Quora,](StackOverFlow, Medium, Dev Community, Daily Dev, Quora,)
+- 📝 I regularly write articles on [StackOverFlow, Medium, Dev Community, Daily Dev, Quora]
 
 - 💬 Ask me about **React, Vue, Angular, Next, Nuxt, Node.js, Python, C#, PHP etc**
 
